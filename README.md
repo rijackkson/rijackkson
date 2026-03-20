@@ -32,3 +32,8 @@ Sou um desenvolvedor focado em unir a estética do design com a robustez do cód
 ### 📫 Contato
 * **LinkedIn:** [linkedin.com/in/rijackkson](https://linkedin.com/in/rijackkson)
 * **Behance:** [Seu Portfólio de Designer aqui]
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
