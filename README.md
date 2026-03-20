@@ -6,15 +6,6 @@ Sou um desenvolvedor focado em unir a estética do design com a robustez do cód
 
 ---
 
-### 🐍 Snake Game (Minhas Contribuições)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rijackkson/rijackkson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rijackkson/rijackkson/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rijackkson/rijackkson/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🛠️ Toolbox
 
 **Design & UI/UX**
